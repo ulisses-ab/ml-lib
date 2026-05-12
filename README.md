@@ -1,4 +1,4 @@
-# transformer2
+# ml-lib
 
 A deep learning framework built from scratch in C++/CUDA. It implements a PyTorch-style tensor library with automatic differentiation, GPU execution, neural network modules, and optimizers — with two end-to-end training examples.
 
